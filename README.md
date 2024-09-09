@@ -1,9 +1,12 @@
 # Olá, Eu sou a Monica Marcela!
-🔭 Developer na NTT DATA.
 
-❤ Sou apaixonada por tecnologia, serie e anime.
+🔭 Desenvolvedora na NTT DATA
 
-🌱 Estudando Angular,Java e AWS (Rumo Full Stack)
+❤ Sou apaixonada por tecnologia, séries e anim
+
+😜 Meu foco é no front-end, especialmente com Angular, e adoro trabalhar em prototipações.
+
+🌱 Atualmente, estou me aprofundando em Java e AWS, com o objetivo de me tornar uma desenvolvedora Full Stack.
 
 📞 Contato: (34) 99202-7097
 
