@@ -5,8 +5,6 @@
 
 🌱 Estudando Angular,Java e AWS (Rumo Full Stack)
 
-😄 Pronouns: ela/dela
-
 📞 Contato: (34) 99202-7097
 
 
