@@ -4,7 +4,7 @@
 
 ❤ Sou apaixonada por tecnologia, séries e anime.
 
-😜 Meu foco é no front-end, especialmente com Angular, e adoro trabalhar em prototipações.
+😜 Meu foco é no front-end, especialmente com Angular, e adoro trabalhar em prototipações UX/UI.
 
 🌱 Atualmente, estou me aprofundando em Java e AWS, com o objetivo de me tornar uma desenvolvedora Full Stack.
 
