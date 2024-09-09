@@ -2,7 +2,7 @@
 
 🔭 Desenvolvedora na NTT DATA
 
-❤ Sou apaixonada por tecnologia, séries e anim
+❤ Sou apaixonada por tecnologia, séries e anime.
 
 😜 Meu foco é no front-end, especialmente com Angular, e adoro trabalhar em prototipações.
 
