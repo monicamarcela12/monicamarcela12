@@ -1,6 +1,10 @@
-# Olá, Eu sou a Monica Marcela!
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-🔭 Desenvolvedora na NTT DATA
+<h1>
+    <span>Olá, Eu sou a Monica Marcela!</span>
+</h1>
+
+<p align="justify">🔭 Desenvolvedora na NTT DATA
 
 ❤ Sou apaixonada por tecnologia, séries e anime.
 
@@ -9,7 +13,10 @@
 🌱 Atualmente, estou me aprofundando em Java e AWS, com o objetivo de me tornar uma desenvolvedora Full Stack.
 
 📞 Contato: (34) 99202-7097
-
+<!--
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
+[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+-->
 
 ### 🏆 Tecnologias
   
@@ -26,7 +33,7 @@
   <img align="center" alt="Monica-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   
 ### 🌎 Onde me encontrar
-  
+
 ##
   
 <div>
